@@ -1,4 +1,6 @@
 # Coffee-Maker
+I created this in the 15th day of 100 days of Pyhton Challenge bootcamp.
+
 This code is built, to operate a coffee machine, where the user pays the machine to get his desired coffe.
 
 These are the instrcution to create the program.
